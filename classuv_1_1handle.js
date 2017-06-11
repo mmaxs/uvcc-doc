@@ -1,0 +1,27 @@
+var classuv_1_1handle =
+[
+    [ "uv_t", "classuv_1_1handle.html#a423c6703549a1f2122e16acc86ec279f", null ],
+    [ "on_destroy_t", "classuv_1_1handle.html#ade2f9dde63ad73fc041686077e57487d", null ],
+    [ "~handle", "classuv_1_1handle.html#a89c1d7a7c5d73a6670b9630d78d67101", null ],
+    [ "handle", "classuv_1_1handle.html#a2349fa8659a9b3b3bf20ef02351f25a7", null ],
+    [ "handle", "classuv_1_1handle.html#afdff2a0244a103a7ef015ae77405356d", null ],
+    [ "operator=", "classuv_1_1handle.html#a633fba9cf533c82fd49025f27bcac1f0", null ],
+    [ "operator=", "classuv_1_1handle.html#a1a35b94611f5e9e3752a2eace110b165", null ],
+    [ "swap", "classuv_1_1handle.html#aab56805c9e4ee4f66e7c5cf0c4dbbe2e", null ],
+    [ "id", "classuv_1_1handle.html#a32ec3014a0f711f4295325918d47b5bb", null ],
+    [ "nrefs", "classuv_1_1handle.html#abc18ede628d693937a564d576fdc2d83", null ],
+    [ "uv_status", "classuv_1_1handle.html#ad6e3d22a225714b3df756b539dce6ced", null ],
+    [ "on_destroy", "classuv_1_1handle.html#ae86a1145918f2213eadba9d2f2aec13f", null ],
+    [ "type", "classuv_1_1handle.html#a6a4a41a6d406caf1bd41bbd9f8e3d864", null ],
+    [ "type_name", "classuv_1_1handle.html#a4934d105693fa4efb342713a99541a41", null ],
+    [ "loop", "classuv_1_1handle.html#a26d8fac400fb4c8a90c2447f79bd951f", null ],
+    [ "attached", "classuv_1_1handle.html#af739efea809ffc5ed438cc6ce5fc1282", null ],
+    [ "attached", "classuv_1_1handle.html#abe38fe4749747463c90a34b2a6e4ab7b", null ],
+    [ "data", "classuv_1_1handle.html#a22921041ee033f83a885692025b5539b", null ],
+    [ "is_active", "classuv_1_1handle.html#ad02caa7487c10dcae18ff6c519f502f0", null ],
+    [ "is_closing", "classuv_1_1handle.html#ab7f3198ee80779b859d2b34982905c45", null ],
+    [ "fileno", "classuv_1_1handle.html#af1b8cb6ab3aac50d7deb4b2f1d0d367f", null ],
+    [ "operator const uv_t *", "classuv_1_1handle.html#a935c10f210b3db3d9194b71969f5cdbc", null ],
+    [ "operator uv_t *", "classuv_1_1handle.html#a765dfaafc8cff5218ea60239dbfcf15e", null ],
+    [ "operator bool", "classuv_1_1handle.html#a8edab9ad4661a101e3a5830916b51f01", null ]
+];

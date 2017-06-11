@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['handles',['Handles',['../group__doxy__group____handle.html',1,'']]],
+  ['handle',['handle',['../classuv_1_1handle.html',1,'uv::handle'],['../classuv_1_1fs_1_1close.html#a63c142e41503a3a4aa63c0a682c7c574',1,'uv::fs::close::handle()'],['../classuv_1_1fs_1_1read.html#a84d7b3613fadd2f1b2f25a563b591245',1,'uv::fs::read::handle()'],['../classuv_1_1fs_1_1write.html#a2f32367efb4cc1d05e09d87672208042',1,'uv::fs::write::handle()'],['../classuv_1_1fs_1_1sync.html#a3e2bb0420d41755902cfbcd06973bd07',1,'uv::fs::sync::handle()'],['../classuv_1_1fs_1_1truncate.html#ab211abffa9e60f541d8ce627f10c8336',1,'uv::fs::truncate::handle()'],['../classuv_1_1fs_1_1stat.html#acd35dc4a9f4414906c2e190c5c6a308b',1,'uv::fs::stat::handle()'],['../classuv_1_1fs_1_1chmod.html#af3822c85f8fd3d2e513e5de370b34460',1,'uv::fs::chmod::handle()'],['../classuv_1_1fs_1_1chown.html#a08d9004341b4235d06a3cc7a6c785d29',1,'uv::fs::chown::handle()'],['../classuv_1_1fs_1_1utime.html#a648c6928168c0a7105cb828ff7fd2314',1,'uv::fs::utime::handle()'],['../classuv_1_1output.html#a09ad717e221cb334c94e05cde53a3927',1,'uv::output::handle()'],['../classuv_1_1connect.html#aceee992c8e8ea9847d0ae4005c9cc089',1,'uv::connect::handle()'],['../classuv_1_1write.html#a188f6553053f78c5e7c0d5f1eac99585',1,'uv::write::handle()'],['../classuv_1_1shutdown.html#a935032533ea48240d6a14b5f7218e457',1,'uv::shutdown::handle()'],['../classuv_1_1udp__send.html#acdb586184efa19b6769ad0cd8a200099',1,'uv::udp_send::handle()']]],
+  ['handle_5fin',['handle_in',['../classuv_1_1fs_1_1sendfile.html#ae2cb2390123535ba86f50ee2f4d90c91',1,'uv::fs::sendfile']]],
+  ['handle_5fout',['handle_out',['../classuv_1_1fs_1_1sendfile.html#ab320bd866c5aff5eb40b0d60939e8ec9',1,'uv::fs::sendfile']]],
+  ['hardware_5fconcurrency',['hardware_concurrency',['http://en.cppreference.com/w/cpp/thread/thread/hardware_concurrency.html',1,'std::thread']]],
+  ['has_5ffacet',['has_facet',['http://en.cppreference.com/w/cpp/locale/has_facet.html',1,'std']]],
+  ['has_5fvirtual_5fdestructor',['has_virtual_destructor',['http://en.cppreference.com/w/cpp/types/has_virtual_destructor.html',1,'std']]],
+  ['hash',['hash',['http://en.cppreference.com/w/cpp/utility/hash.html',1,'std::hash'],['http://en.cppreference.com/w/cpp/locale/collate/hash.html',1,'std::collate_byname::hash()'],['http://en.cppreference.com/w/cpp/utility/hash/hash.html',1,'std::hash::hash()'],['http://en.cppreference.com/w/cpp/locale/collate/hash.html',1,'std::collate::hash()']]],
+  ['hash_5fcode',['hash_code',['http://en.cppreference.com/w/cpp/types/type_info/hash_code.html',1,'std::type_info::hash_code()'],['http://en.cppreference.com/w/cpp/types/type_index/hash_code.html',1,'std::type_index::hash_code()']]],
+  ['hash_5ffunction',['hash_function',['http://en.cppreference.com/w/cpp/container/unordered_map/hash_function.html',1,'std::unordered_map::hash_function()'],['http://en.cppreference.com/w/cpp/container/unordered_multimap/hash_function.html',1,'std::unordered_multimap::hash_function()'],['http://en.cppreference.com/w/cpp/container/unordered_multiset/hash_function.html',1,'std::unordered_multiset::hash_function()'],['http://en.cppreference.com/w/cpp/container/unordered_set/hash_function.html',1,'std::unordered_set::hash_function()']]],
+  ['hecto',['hecto',['http://en.cppreference.com/w/cpp/numeric/ratio/ratio.html',1,'std']]],
+  ['hex',['hex',['http://en.cppreference.com/w/cpp/io/manip/hex.html',1,'std']]],
+  ['hexfloat',['hexfloat',['http://en.cppreference.com/w/cpp/io/manip/fixed.html',1,'std']]],
+  ['high_5fresolution_5fclock',['high_resolution_clock',['http://en.cppreference.com/w/cpp/chrono/high_resolution_clock.html',1,'std::chrono']]],
+  ['host',['host',['../classuv_1_1getnameinfo.html#a00ec2fb1c04021b44fc420652dc7fff9',1,'uv::getnameinfo']]],
+  ['hours',['hours',['http://en.cppreference.com/w/cpp/chrono/duration.html',1,'std::chrono::hours'],['http://en.cppreference.com/w/cpp/chrono/duration/duration.html',1,'std::chrono::hours::hours()']]],
+  ['hton16',['hton16',['../group__doxy__group____endian.html#gacef5252e60339494bdda399b415bad4b',1,'uv']]],
+  ['hton32',['hton32',['../group__doxy__group____endian.html#ga74e1e94f70d20423da37184b858c0e22',1,'uv']]],
+  ['hton64',['hton64',['../group__doxy__group____endian.html#ga124083152b27eb0fb7b9aff301308139',1,'uv']]],
+  ['hypot',['hypot',['http://en.cppreference.com/w/cpp/numeric/math/hypot.html',1,'std']]]
+];
